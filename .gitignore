@@ -71,6 +71,10 @@ instance/
 # Scrapy stuff:
 .scrapy
 
+# VsCode stuff:
+*.code-workspace
+
+
 # Sphinx documentation
 docs/_build/
 
