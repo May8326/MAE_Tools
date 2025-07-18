@@ -1,6 +1,7 @@
 # Outputs
 *output/
 *data/
+*markmap/_viz/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
